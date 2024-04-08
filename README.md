@@ -1,2 +1,2 @@
 # Doc-BuscaMinas
-# Doc-BuscaMinas
+
